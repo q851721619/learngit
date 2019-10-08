@@ -1,2 +1,2 @@
 Git ls a distributed version control systems.
-Git ls free software.
+Git ls free software distributed under the GPL.
